@@ -17,4 +17,4 @@ This project is structured into 3 primary components:
 2. **RPA Bots:** Automation Anywhere bots that extract website information and then uses [Semantic_Search_Script](./Semantic_Search_Script.py) to perform Semantic Search and then send the results to Flask through [Request_Script](./Request_Script.py)
 3. **Backend:** A Flask application responsible for handling API requests, ensuring efficient data management and search processing.
 
-[![Watch the demo video](path/to/your/thumbnail.jpg)](https://drive.google.com/file/d/1f7y5nMRF0yFFFDwG5TMjJGvEXJn-ol3X/view?usp=sharing)
+[![Watch the demo video](./Bidnet_Thumbnail.png)](https://drive.google.com/file/d/1f7y5nMRF0yFFFDwG5TMjJGvEXJn-ol3X/view?usp=sharing)
